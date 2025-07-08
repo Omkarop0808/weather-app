@@ -7,7 +7,6 @@ A sleek and simple weather forecasting app built using **React**, **Material UI*
 ## 🚀 Features
 
 - Real-time weather data
-- Responsive UI with Material UI
 - Clean and intuitive design
 
 ---
@@ -16,7 +15,6 @@ A sleek and simple weather forecasting app built using **React**, **Material UI*
 
 - React
 - Vite
-- Material UI
 - OpenWeatherMap API (or your preferred API)
 
 ---
